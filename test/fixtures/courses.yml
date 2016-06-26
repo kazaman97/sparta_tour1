@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tour_date: 2016-06-26
+  guide_name: MyString
+  title: MyString
+  description: MyText
+  lower_limit: 1
+  upper_limit: 1
+
+two:
+  tour_date: 2016-06-26
+  guide_name: MyString
+  title: MyString
+  description: MyText
+  lower_limit: 1
+  upper_limit: 1
